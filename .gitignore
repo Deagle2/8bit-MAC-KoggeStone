@@ -1,0 +1,12 @@
+*.log
+*.jou
+*.str
+*.backup
+*.backup.jou
+.Xil/
+MAC.cache/
+MAC.hw/
+MAC.ip_user_files/
+MAC.runs/
+MAC.sim/
+dfx_runtime
