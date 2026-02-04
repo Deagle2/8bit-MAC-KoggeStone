@@ -2,6 +2,7 @@
 **Version 1.0** · _04 Feb 2026_
 
 This project implements and simulates an **8-bit high-performance Multiply–Accumulate (MAC) unit** using a **2-stage pipeline**. A **16-bit Kogge–Stone prefix adder** is employed to achieve fast carry propagation in the accumulation stage.
+
 <img width="617" height="314" alt="image" src="https://github.com/user-attachments/assets/de25b491-9c89-4cf1-9501-d1330ffdaee3" />
 
 ---
